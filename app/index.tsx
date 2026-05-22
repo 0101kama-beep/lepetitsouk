@@ -51,8 +51,10 @@ const Styles = StyleSheet.create({
     paddingHorizontal: 10,
     borderWidth: 4,
     borderColor: "#FA8500",
-    borderRadius: 30,
+    borderRadius: 29,
+      
     
+
   },
   Titelstyle: {
     fontSize: 30,
